@@ -4,10 +4,6 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:700|Montserrat:800">
 	<style>
-.class {
-    background: rgba(0,0,0,0.5);
-}	
-		
 #timer {
   color: #c9a26a;
   text-align: center;
@@ -32,6 +28,7 @@
   font-size: 4em;
   text-align: center;
 }
+
 	</style>
 </head>
 
@@ -58,7 +55,7 @@ let timer = setInterval(function() {
 
   // math
   let days = Math.floor(diff / (1000 * 60 * 60 * 24));
-  
+
   // display
   document.getElementById("days").innerHTML=days
 }, 1);
