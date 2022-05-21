@@ -1,3 +1,3 @@
 - [100 Days](https://syillvy.github.io/notion-widgets/100days): Modified version of [Countdown Days Only](https://github.com/ShoroukAziz/notion_widgets/blob/master/count-down-days-only.html).
 - [CSS Typing Effect](https://syillvy.github.io/notion-widgets/CSS%20Typing%20Effect): Modified version of [CSS Typing Effect](https://codepen.io/denic/pen/GRoOxbM).
-- [Stopwatch](https://syillvy.github.io/notion-widgets/Stopwatch) and [StopwatchLight](https://syillvy.github.io/notion-widgets/StopwatchLight): Modified versions of [Simple clock with Vue.js](https://codepen.io/raphael_octau/pen/ReLMVW)
+- [Stopwatch](https://syillvy.github.io/notion-widgets/Stopwatch): (https://syillvy.github.io/notion-widgets/StopwatchLight): Modified version of [Simple clock with Vue.js](https://codepen.io/raphael_octau/pen/ReLMVW)
